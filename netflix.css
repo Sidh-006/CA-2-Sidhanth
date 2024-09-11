@@ -1,0 +1,89 @@
+
+.Main,.main1{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px 280px ;
+    gap: 30px;
+    margin:25px;
+}
+.bg{
+    background-image: url('assets/Title-Image.png');
+    height: 100vh;
+    width: 95vw;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 20s;
+}
+
+.Logo{
+    width: 100px;
+}
+body{
+    background-color: black;
+}
+h3{
+    color: white;margin-left: 20px;
+}
+span{
+    margin-right: 600px;
+}
+.img1{
+    position: absolute; 
+    right: 200px;
+    background-color: black;
+}
+.img2{
+    position: absolute; 
+    right: 150px;
+    background-color: black;
+}
+.img3{
+    position: absolute; 
+    right: 100px;
+    background-color: black;
+}
+.img4{
+    position: absolute; 
+    right: 50px;
+    background-color: black;
+}
+
+.endimg1{
+    position: absolute;
+    left: 200px;
+
+}
+
+.endimg1{
+    position: absolute;
+    left: 200px;
+
+}
+
+.endimg1{
+    position: absolute;
+    left: 300px;
+
+}
+
+.endimg2{
+    position: absolute;
+    left: 350px;
+
+}
+
+.endimg3{
+    position: absolute;
+    left: 400px;
+
+}
+
+.endimg4{
+    position: absolute;
+    left: 450px;
+
+}
+
+.Names{
+    margin-right: 800px;
+}
